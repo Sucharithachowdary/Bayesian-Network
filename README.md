@@ -112,7 +112,7 @@ ax = plt.gca()
 ax.margins(0.10)
 plt.axis("off")
 plt.show()
-
+```
 ## Output:
 <img width="460" alt="ap1" src="https://github.com/Sucharithachowdary/Bayesian-Network/assets/94166007/ca8d8174-b587-499b-b787-d1214c3d9ef4">
 
