@@ -22,7 +22,6 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 ```
 NAME:k sucharitha
 REG.NO:212221240021
-```
 
 import pandas as pd 
 import networkx as nx 
